@@ -1,2 +1,3 @@
 ## Гафурова Алиса ИД22-1
-1 проект how-to-learn
+* Проект Nᵒ1 "how-to-learn"
+* Ссылка для просмотра работы: http://htmlpreview.github.io/?https://github.com/AliceATG/how-to-learn/blob/main/index.html
