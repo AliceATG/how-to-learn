@@ -1,11 +1,8 @@
 .header__title {
-    display : flex;
-    justify-content : center;
-    width : 730px;
-    margin-left : 64px;
-    font-size : 102px;
-    line-height : 96px;
+    width: 730px;
+    line-height: 96px;
+    font-size: 102px;
     font-weight: bold;
     z-index: 3;
-    }
-  
+    color: #000000;
+  }
