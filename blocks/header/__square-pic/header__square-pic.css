@@ -5,6 +5,7 @@
     background-color : #2f80ed;
     top : 64px;
     right : 0;
+    max-height: 536px;
     position : absolute;
     z-index : 1;
     }
